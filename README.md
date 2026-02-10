@@ -1,10 +1,9 @@
-# Reasoning Provenance Engine
+# Structural Reasoning Provenance Engine
 
 Open-source structural diagnostic engine designed to detect divergence between model outputs and real-world constraints through reasoning provenance tracking.
 
 The system treats reasoning as structured, inspectable data rather than opaque AI generation. It enables traceable analysis, structural validation, and early detection of instability across AI systems, markets, and complex decision environments.
 
----
 
 ## Architectural Premise
 
@@ -17,7 +16,6 @@ Reasoning becomes:
 - auditable
 - structurally testable
 
----
 
 ## Core Idea
 
@@ -28,7 +26,6 @@ Instead of evaluating only outputs, the engine tracks reasoning pathways, allowi
 - structural consistency validation
 - inspection-first diagnostics
 
----
 
 ## Design Principles
 
@@ -36,8 +33,5 @@ Instead of evaluating only outputs, the engine tracks reasoning pathways, allowi
 - Reasoning as data, not narrative
 - Structural diagnostics over output scoring
 - Auditability by default
-
----
-
 ## Repository Structure
 
